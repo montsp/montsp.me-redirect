@@ -1,0 +1,7 @@
+{
+  "name": "montsp.me-redirect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
